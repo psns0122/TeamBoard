@@ -1,3 +1,4 @@
+
 package jdbc.homework.boards.service;
 
 /**
@@ -35,5 +36,6 @@ public interface BoardService {
      * 모든 게시물을 삭제하는 메서드
      */
     void clearBoards();
+
 
 }

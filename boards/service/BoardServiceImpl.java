@@ -1,3 +1,4 @@
+
 package jdbc.homework.boards.service;
 
 import jdbc.homework.boards.dao.BoardDao;
@@ -97,5 +98,6 @@ public class BoardServiceImpl implements BoardService{
     }
     private LocalDateTime getCurrentDate() {
         return LocalDateTime.now();
+
     }
 }

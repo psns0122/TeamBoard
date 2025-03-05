@@ -1,8 +1,10 @@
+
 package jdbc.homework.boards.vo;
 
 import lombok.Data;
 
 import java.time.LocalDateTime;
+
 
 @Data
 public class Board {
